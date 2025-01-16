@@ -1,8 +1,8 @@
 <h1 align="center">🏝️ Chris Abbott</h1>
 <h3 align="center">Bringing passion and innovative solutions that drive real-world impact.</h3>
 
-<h3>Code loving father</h4>
-**`Digital Craftsman (Developer/Father/Chef)`**
+<h3 align="center">Code loving father</h4>
+<h4 align="center">Digital Craftsman (Developer/Father/Chef)</h3>
 
 ---
 <h3>🗃️ Languages and Tools:</h3>
@@ -15,6 +15,8 @@
 <img align="left" width="26px" style="padding-right:10px;" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" width="26px" style="padding-right:10px;" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" width="26px" style="padding-right:10px;" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" width="26px" style="padding-right:10px;" alt="nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+
 <img align="left" width="26px" style="padding-right:10px;" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <br />
 
@@ -25,11 +27,7 @@
 
 - 📫 Email me **chris.abs96@gmail.com**
 
-<h3 align="left">LinkedIn</h3>
+<h3 align="left">Connect here</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/chris-abbott-078b21212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/chris-abbott-078b21212" height="30" width="40" /></a>
 </p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chris-abs&" alt="chris-abs" /></p>
