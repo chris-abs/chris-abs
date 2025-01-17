@@ -21,7 +21,6 @@
 <br />
 
 #
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chris-abs&show_icons=true&theme=gruvbox)
 
 - 👨‍💻 All of my projects are available at [https://portfolio.chrisabbott.dev/](https://portfolio.chrisabbott.dev/)
 
